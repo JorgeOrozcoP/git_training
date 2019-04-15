@@ -22,6 +22,8 @@ $ git config --global user.email johndoe@example.com
 
 source: https://git-scm.com/book/en/v1/Getting-Started-First-Time-Git-Setup#Your-Identity
 
+If you  want to avoid typing your username and password every time, follow the instructions in [this link](https://help.github.com/en/articles/caching-your-github-password-in-git)
+
 ## Downloading training repo
 
 Before, two definitions: 
