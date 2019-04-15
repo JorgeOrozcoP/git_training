@@ -1,5 +1,5 @@
 # git_training
-team git training
+Team git training
 
 ## Benefits of git
 Git allows two main things: 
@@ -8,14 +8,17 @@ Git allows two main things:
 
 ## Donwload
 You can donwload git from the [official site](https://git-scm.com/downloads)
+
 (Windows)I recommend downloading [Cmder],(https://cmder.net/) a pretty cmd environment that already has git included
 
 ## Setting up git
 
 After installation, type the following in a cmd console using your own credentials:
 
+```
 $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
+```
 
 source: https://git-scm.com/book/en/v1/Getting-Started-First-Time-Git-Setup#Your-Identity
 
@@ -28,13 +31,13 @@ Before, two definitions:
 **fork**: This will copy an existing repository into your own github profile. When you update files (push) you will NOT contribute to the original project, but to your own.
 
 ### Instructions
-- go to: https://github.com/JorgeOrozcoP/git_training
+1. go to: https://github.com/JorgeOrozcoP/git_training
 
-- Press the green button that says "Clone or download" and copy the link shown
+2. Press the green button that says "Clone or download" and copy the link shown
 
-- Create a folder to host your git projects 'mkdir git/'
+3. Create a folder to host your git projects `mkdir git/`
 
-- navigate to that folder and use the command 'git clone' followed by the link that you copied earlier. For this exercise, the complete command is: 'git clone https://github.com/JorgeOrozcoP/git_training.git'
+4. Navigate to that folder and use the command `git clone` followed by the link that you copied earlier. For this exercise, the complete command is: `git clone https://github.com/JorgeOrozcoP/git_training.git`
 
 
 
