@@ -9,7 +9,7 @@ Git allows two main things:
 ## Donwload
 You can donwload git from the [official site](https://git-scm.com/downloads)
 
-(Windows)I recommend downloading [Cmder],(https://cmder.net/) a pretty cmd environment that already has git included
+(Windows)I recommend downloading [Cmder](https://cmder.net/) a pretty cmd environment that already has git included
 
 ## Setting up git
 
