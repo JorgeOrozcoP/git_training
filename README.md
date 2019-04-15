@@ -41,8 +41,25 @@ Before, two definitions:
 
 4. Navigate to that folder and use the command `git clone` followed by the link that you copied earlier. For this exercise, the complete command is: `git clone https://github.com/JorgeOrozcoP/git_training.git`
 
+## Basic command flow: creating a branch
 
+`git checkout -b new-feature upper-branch` use this to create a branch and immediately switch to it, copying the upper branch
 
+## Basic command flow: commiting a change
+
+`git status` will show the current status of files 
+
+`git diff` check the modifications just done to your files
+
+`git add [file path]` will stage a file to be commited
+
+`git add --all` will stage all modified files to be commited
+
+`git commit -m "some message"` will commit the staged files. Think of a commit as a 'timestamp'. The staged files will be commited to a specific point in time
+
+`git pull origin branch-name` before you upload your changes (push) make sure that your branch is up to date 
+
+`git push origin branch-name` upload (push) your changes into the repository
 
 
 
