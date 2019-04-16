@@ -6,7 +6,7 @@ import math
 # sum function should go here
 
 def suma(a,b):
-    pass
+    return a+b
 
 # substraction function should go here 
 
