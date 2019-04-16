@@ -11,7 +11,10 @@ def suma(a,b):
 # substraction function should go here 
 
 def subs(a,b):
-    pass
+	#Changes made by Sacha on the 16th of April 2019
+	#Return the substraction of a and b
+	#123
+    return (a-b)
 
 # division function should go here
 def divis(a,b):
