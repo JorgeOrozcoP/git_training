@@ -15,7 +15,7 @@ def subs(a,b):
 
 # division function should go here
 def divis(a,b):
-    pass
+    return a/b
 
 # multiplication function should go here
 def multip(a,b):
