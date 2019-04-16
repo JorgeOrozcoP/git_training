@@ -19,7 +19,7 @@ def divis(a,b):
 
 # multiplication function should go here
 def multip(a,b):
-    pass
+    return a * b
 
 
 if __name__ == "__main__":
